@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.tox/
+.coverage
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# Data files (exclude large datasets)
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.xlsx
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
