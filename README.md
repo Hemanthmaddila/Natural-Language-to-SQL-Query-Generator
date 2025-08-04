@@ -33,7 +33,7 @@ You'll need Python 3.11+, Docker, and an OpenAI API key.
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/nl-to-sql-generator.git
+git clone https://github.com/Hemanthmaddila/Natural-Language-to-SQL-Query-Generator.git
 cd nl-to-sql-generator
 
 # Virtual environment
