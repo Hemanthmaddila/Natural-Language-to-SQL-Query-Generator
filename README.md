@@ -159,7 +159,7 @@ Just edit your `.env` file:
 **Database connection issues**: Make sure Docker is running and ports aren't conflicting
 **OpenAI API errors**: Check your API key and quota limits
 **Import errors**: Make sure you're in the virtual environment (`venv\Scripts\activate`)
-**Port 5432 in use**: The docker-compose.yml uses port 5433 to avoid conflicts
+**Port (****) in use**: The docker-compose.yml uses port **** to avoid conflicts
 
 ## Contributing
 
